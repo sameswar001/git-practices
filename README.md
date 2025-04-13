@@ -4,7 +4,7 @@ Welcome to the **Hello World** project!
 
 ## About
 
-This project is a simple demonstration of creating a "Hello World" application. It serves as a starting point for learning and practicing Git and GitHub workflows.
+This project is a simple demonstration for practicing various Git features and workflows. It serves as a sandbox for learning and experimenting with Git and GitHub.
 
 ## Features
 
@@ -33,3 +33,4 @@ Feel free to fork this repository and submit pull requests. Contributions are al
 ## License
 
 This project is licensed under the MIT License.
+SK is awesome
